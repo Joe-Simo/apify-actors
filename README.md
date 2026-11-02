@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 6 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
+Docs, example inputs and real outputs for 7 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
 
 | Actor | What you get | Price | Store page |
 |---|---|---|---|
@@ -10,7 +10,8 @@ Docs, example inputs and real outputs for 6 data Actors published on Apify Store
 | [Bulk Email Validator](email-validator/) | One row per address with status valid, risky, invalid or unknown, reason codes and DNS facts: syntax, MX and null MX, disposable domains, role accounts, free providers, typo suggestions, SPF and DMARC. | $0.001 per email checked | https://apify.com/joesimo/email-validator |
 | [Website Tech Stack Detector](tech-stack-detector/) | The technology stack of each website in a list: CMS, ecommerce platform, JavaScript frameworks, analytics, ad pixels, CDN, hosting, web server, chat, payments, email hosting and delivery, and DNS provider. | $0.002 per analyzed website, $0.0023 from Nov 16, 2026 | https://apify.com/joesimo/tech-stack-detector |
 | [Contact Details Scraper](contact-details-finder/) | Public business contact details for a list of company websites: emails ranked with the shared inbox first, validated phone numbers, 14 social platforms, contact page and form URLs, company name and address when published. | $0.003 per website where contacts were found | https://apify.com/joesimo/contact-details-finder |
+| [Website Screenshot API](website-screenshot/) | Screenshots of any list of URLs as PNG, JPEG or PDF, screen size or full page, desktop, tablet or mobile view, with cookie banners and ads hidden and a download link per row. | $0.004 per screenshot, $0.008 per full page screenshot or PDF | https://apify.com/joesimo/website-screenshot |
 
-All 6 use plain HTTP and public data sources: no browser, no login. Pricing is pay per event on Apify, so you pay per result saved plus the Apify run start fee of $0.00005.
+The first 6 use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login. Pricing is pay per event on Apify, so you pay per result saved plus the Apify run start fee of $0.00005.
 
 Contact: joesimo@mail.grokbot.com
