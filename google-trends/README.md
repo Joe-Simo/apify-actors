@@ -39,6 +39,18 @@ On Nov 1, 2026 this run took 9 seconds and saved 1 result for $0.002: 53 weekly 
 }
 ```
 
+## Paste a Google Trends URL
+
+Build a chart on trends.google.com, copy the address bar and pass it in `startUrls`. Each URL keeps its own terms, location, dates, category and property. Exact dates go in `customTimeRange` as `2025-01-01 2025-12-31`.
+
+```json
+{
+  "startUrls": ["https://trends.google.com/trends/explore?date=today%203-m&geo=GB&q=iphone,pixel"]
+}
+```
+
+A cloud run of this input on Nov 1, 2026 returned one result with averages iphone 34 and pixel 3 over the past 3 months in the UK.
+
 ## Call it from code
 
 ```bash
