@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 8 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
+Docs, example inputs and real outputs for 9 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
 
 | Actor | What you get | Price | Store page |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Docs, example inputs and real outputs for 8 data Actors published on Apify Store
 | [Contact Details Scraper](contact-details-finder/) | Public business contact details for a list of company websites: emails ranked with the shared inbox first, validated phone numbers, 14 social platforms, contact page and form URLs, company name and address when published. | $0.003 per website where contacts were found | https://apify.com/joesimo/contact-details-finder |
 | [Website Screenshot API](website-screenshot/) | Screenshots of any list of URLs as PNG, JPEG or PDF, screen size or full page, desktop, tablet or mobile view, with cookie banners and ads hidden and a download link per row. | $0.004 per screenshot, $0.008 per full page screenshot or PDF | https://apify.com/joesimo/website-screenshot |
 | [Google Ads Transparency Scraper](google-ads-transparency/) | Every ad a company runs on Google from the Ads Transparency Center, by domain, brand name or advertiser ID: advertiser, format (text, image or video), first and last shown dates, days running, image and ad links, and optionally the countries each ad ran in. | $0.0015 per ad, $0.0025 per ad with countries | https://apify.com/joesimo/google-ads-transparency |
+| [Workday Jobs Scraper](workday-jobs/) | Every job from any Workday career site (myworkdayjobs.com): title, requisition ID, location, country, remote type, posted date, full description and the pay range as numbers (min, max, currency, period). Filter by keyword, location, job category and days since posting. | $0.0015 per job with details, $0.001 per job with list fields only | https://apify.com/joesimo/workday-jobs |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login. Pricing is pay per event on Apify, so you pay per result saved, plus the Apify run start fee of $0.00005 on the first 7.
 
