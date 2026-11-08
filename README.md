@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 10 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
+Docs, example inputs and real outputs for 11 data Actors published on Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, the price and the Store link. Every Actor runs a small demo when called with an empty input `{}`.
 
 | Actor | What you get | Price | Store page |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Docs, example inputs and real outputs for 10 data Actors published on Apify Stor
 | [Google Ads Transparency Scraper](google-ads-transparency/) | Every ad a company runs on Google from the Ads Transparency Center, by domain, brand name or advertiser ID: advertiser, format (text, image or video), first and last shown dates, days running, image and ad links, and optionally the countries each ad ran in. | $0.0015 per ad, $0.0025 per ad with countries | https://apify.com/joesimo/google-ads-transparency |
 | [Workday Jobs Scraper](workday-jobs/) | Every job from any Workday career site (myworkdayjobs.com): title, requisition ID, location, country, remote type, posted date, full description and the pay range as numbers (min, max, currency, period). Filter by keyword, location, job category and days since posting. | $0.0015 per job with details, $0.001 per job with list fields only | https://apify.com/joesimo/workday-jobs |
 | [Remote Jobs Scraper](remote-jobs/) | Remote jobs from Remote OK, We Work Remotely and Jobicy in one deduplicated list: title, company, where the job can be done, salary as numbers (min, max, currency, period), tags, posted date, description and job link. Filter by keyword, location, minimum salary and days since posting. | $0.001 per job | https://apify.com/joesimo/remote-jobs |
+| [Shopify Products Scraper](shopify-products/) | Public product catalog from any Shopify store: title, prices, variants, SKU, stock, images, vendor and tags. Paste a store URL, a collection or a product page. No login. | $0.001 per product | https://apify.com/joesimo/shopify-products |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login. Pricing is pay per event on Apify, so you pay per result saved, plus the Apify run start fee of $0.00005 on the first 7.
 
