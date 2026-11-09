@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 12 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
+Docs, example inputs and real outputs for 13 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
 
 ## Featured
 
@@ -23,6 +23,7 @@ Docs, example inputs and real outputs for 12 data Actors on the Apify Store. Eac
 | [Google Ads Transparency Scraper](google-ads-transparency/) | Every ad a company runs on Google from the Ads Transparency Center, by domain, brand name or advertiser ID: advertiser, format (text, image or video), first and last shown dates, days running, image and ad links, and optionally the countries each ad ran in. | https://apify.com/joesimo/google-ads-transparency |
 | [Remote Jobs Scraper](remote-jobs/) | Remote jobs from Remote OK, We Work Remotely and Jobicy in one deduplicated list: title, company, where the job can be done, salary as numbers (min, max, currency, period), tags, posted date, description and job link. Filter by keyword, location, minimum salary and days since posting. | https://apify.com/joesimo/remote-jobs |
 | [Hacker News Scraper](hacker-news/) | Hacker News stories, comments, Show HN, Ask HN, jobs and user karma via the official Firebase and Algolia APIs. Feeds, keyword search with date and points filters, comment trees and Who is Hiring. No login. | https://apify.com/joesimo/hacker-news |
+| [Apple Podcasts Scraper](apple-podcasts/) | Apple Podcasts catalog and episode metadata via the official iTunes Search and Lookup APIs plus public podcast RSS feeds. Search shows, look up by id or Apple URL, and read episode lists. No login. | https://apify.com/joesimo/apple-podcasts |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login.
 
