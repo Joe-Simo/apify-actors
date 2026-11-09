@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 15 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
+Docs, example inputs and real outputs for 16 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
 
 ## Featured
 
@@ -26,6 +26,7 @@ Docs, example inputs and real outputs for 15 data Actors on the Apify Store. Eac
 | [Apple Podcasts Scraper](apple-podcasts/) | Apple Podcasts catalog and episode metadata via the official iTunes Search and Lookup APIs plus public podcast RSS feeds. Search shows, look up by id or Apple URL, and read episode lists. No login. | https://apify.com/joesimo/apple-podcasts |
 | [SEC EDGAR Filings Scraper](sec-edgar/) | U.S. SEC EDGAR filings via the official data.sec.gov submissions APIs. Look up by ticker, CIK or company name, filter by form type and date, and get document and index URLs. No login. | https://apify.com/joesimo/sec-edgar |
 | [arXiv Papers Scraper](arxiv-papers/) | arXiv paper metadata via the official arXiv API: search by keyword, category, author, date or id and get titles, abstracts, authors, categories, DOIs, journal refs and PDF links. No login. | https://apify.com/joesimo/arxiv-papers |
+| [App Store Scraper](app-store-scraper/) | Apple App Store apps, top charts and customer reviews from Apple's public APIs and feeds: search by keyword, look up ids, URLs or bundle ids, read top free, paid and grossing charts by genre, and get reviews with star ratings from any country. No login. | https://apify.com/joesimo/app-store-scraper |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login.
 
