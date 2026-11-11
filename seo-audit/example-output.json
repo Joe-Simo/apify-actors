@@ -1,0 +1,85 @@
+{
+  "type": "page",
+  "site": "https://crawlee.dev",
+  "depth": 1,
+  "url": "https://crawlee.dev/blog",
+  "finalUrl": "https://crawlee.dev/blog",
+  "statusCode": 200,
+  "redirectCount": 0,
+  "responseTimeMs": 573,
+  "pageSizeBytes": 66715,
+  "contentType": "text/html; charset=utf-8",
+  "title": "Crawlee Blog - learn how to build better scrapers | Crawlee for JavaScript · Build reliable crawlers. Fast.",
+  "titleLength": 107,
+  "metaDescription": "Guides and tutorials on using Crawlee, the most reliable open-source web scraping and browser automation library for JavaScript and Node.js developers.",
+  "metaDescriptionLength": 151,
+  "h1": [],
+  "h1Count": 0,
+  "h2Count": 12,
+  "h3Count": 3,
+  "canonicalUrl": "https://crawlee.dev/blog",
+  "canonicalIsSelf": true,
+  "metaRobots": null,
+  "xRobotsTag": null,
+  "indexable": true,
+  "lang": "en",
+  "hreflang": [
+    {
+      "lang": "en",
+      "url": "https://crawlee.dev/blog"
+    },
+    {
+      "lang": "x-default",
+      "url": "https://crawlee.dev/blog"
+    }
+  ],
+  "viewport": "width=device-width, initial-scale=1.0",
+  "ogTitle": "Crawlee Blog - learn how to build better scrapers | Crawlee for JavaScript · Build reliable crawlers. Fast.",
+  "ogDescription": "Crawlee helps you build and maintain your crawlers. It's open source, but built by developers who scrape millions of pages every day for a living.",
+  "ogImage": "https://crawlee.dev/img/crawlee-js-og.png",
+  "twitterCard": "summary_large_image",
+  "structuredDataTypes": [
+    "Blog"
+  ],
+  "jsonLdBlocks": 1,
+  "imageCount": 28,
+  "imagesMissingAlt": 0,
+  "internalLinks": 88,
+  "externalLinks": 49,
+  "wordCount": 1108,
+  "mixedContent": 0,
+  "issues": [
+    {
+      "code": "title_too_long",
+      "severity": "warning",
+      "detail": "107 characters (aim for 30 to 60)"
+    },
+    {
+      "code": "h1_missing",
+      "severity": "warning",
+      "detail": null
+    },
+    {
+      "code": "title_duplicate",
+      "severity": "warning",
+      "detail": "Same as 1 other page(s): https://crawlee.dev/blog/page/2"
+    },
+    {
+      "code": "meta_description_duplicate",
+      "severity": "warning",
+      "detail": "Same as 1 other page(s): https://crawlee.dev/blog/page/2"
+    }
+  ],
+  "issueCodes": [
+    "title_too_long",
+    "h1_missing",
+    "title_duplicate",
+    "meta_description_duplicate"
+  ],
+  "errors": 0,
+  "warnings": 4,
+  "notices": 0,
+  "score": 80,
+  "checkedAt": "2026-11-10T21:48:09.463Z",
+  "charged": true
+}
