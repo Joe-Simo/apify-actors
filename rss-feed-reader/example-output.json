@@ -1,0 +1,62 @@
+[
+  {
+    "type": "item",
+    "feedUrl": "https://www.nasa.gov/news-release/feed/",
+    "feedTitle": "NASA",
+    "siteUrl": "https://www.nasa.gov/",
+    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "guid": "https://www.nasa.gov/?post_type=press-release&p=1064501",
+    "published": "2026-11-10T19:22:45.000Z",
+    "updated": null,
+    "author": "Gerelle Q. Dodson",
+    "categories": [
+      "Voyager 1",
+      "Heliophysics",
+      "Heliophysics Division",
+      "Jet Propulsion Laboratory",
+      "NASA Headquarters",
+      "Voyager 2"
+    ],
+    "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecra...",
+    "content": "An artist’s concept depicting a Voyager spacecraft.\nCredit: NASA/JPL-Caltech\n\nLaunched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-m...",
+    "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
+    "enclosures": [],
+    "podcast": null,
+    "commentsUrl": null,
+    "language": "en-US",
+    "charged": true,
+    "scrapedAt": "2026-11-11T03:49:44.570Z"
+  },
+  {
+    "type": "feed_summary",
+    "input": "https://github.blog/",
+    "feedUrl": "https://github.blog/feed/",
+    "discoveredFrom": "https://github.blog/",
+    "status": "ok",
+    "httpStatus": 200,
+    "finalUrl": "https://github.blog/feed/",
+    "format": "rss 2.0",
+    "title": "The GitHub Blog",
+    "siteUrl": "https://github.blog/",
+    "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+    "language": "en-US",
+    "isPodcast": false,
+    "lastUpdated": "2026-11-10T19:02:20.000Z",
+    "newestItemDate": "2026-11-10T18:00:00.000Z",
+    "oldestItemDate": "2026-10-21T16:00:00.000Z",
+    "avgDaysBetweenItems": 2.23,
+    "itemsInFeed": 10,
+    "itemsReturned": 5,
+    "filteredOut": 0,
+    "duplicates": 0,
+    "responseTimeMs": 240,
+    "error": null,
+    "discovery": "link_tag",
+    "feedsFound": [
+      "https://github.blog/feed/",
+      "https://github.blog/comments/feed/"
+    ],
+    "checkedAt": "2026-11-11T03:49:44.805Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "feedUrls": [
+    "https://www.nasa.gov/news-release/feed/",
+    "https://github.blog/",
+    "https://go.dev/blog/feed.atom"
+  ],
+  "maxItemsPerFeed": 20,
+  "since": "7 days",
+  "deduplicate": true
+}

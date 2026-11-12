@@ -1,0 +1,53 @@
+{
+  "type": "pdf",
+  "status": "ok",
+  "url": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+  "finalUrl": "https://www.irs.gov/pub/irs-pdf/fw9.pdf",
+  "sourcePage": null,
+  "linkText": null,
+  "fileName": "fw9.pdf",
+  "title": "Form W-9 (Rev. March 2024)",
+  "author": "SE:W:CAR:MP",
+  "subject": "Request for Taxpayer Identification Number and Certification",
+  "keywords": "Fillable",
+  "creator": "Designer 6.5",
+  "producer": "Designer 6.5",
+  "creationDate": "2024-03-06T13:18:13.000Z",
+  "modificationDate": "2024-03-06T13:18:13.000Z",
+  "language": "en-US",
+  "pdfVersion": "1.7",
+  "isLinearized": false,
+  "hasForm": true,
+  "hasSignatures": false,
+  "encrypted": false,
+  "pageCount": 6,
+  "pagesExtracted": 6,
+  "pagesSkipped": 0,
+  "wordCount": 6302,
+  "charCount": 37757,
+  "emptyPages": 0,
+  "needsOcr": false,
+  "pageWidthPt": 612,
+  "pageHeightPt": 792,
+  "fileSizeBytes": 140815,
+  "sha256": "2d420cbb4123dcf1fb82595b2359cfbb5d81f00b9df9d359fcc7af361d093f53",
+  "text": "Form W-9\n(Rev. March 2024)\nRequest for Taxpayer\nIdentification Number and Certification\nDepartment of the Treasury\nInternal Revenue Service Go to www.irs.gov/FormW9 for instructions and the latest information.\n\nGive form to the\nrequester. Do not\nsend to the IRS.\n\nBefore you begin. For guidance related to the purpose of Form W-9, see Purpose of Form, below.\n\nPrint or type.\n\nSee\nSpecific Instructions\n\non page 3.\n\n1 Name of entity/individual. An entry is required. (For a sole proprietor or disregarded entity, enter the owner’s name on line 1, and enter the business/disregarded\nentity’s name on li ...",
+  "textTruncated": false,
+  "fullTextUrl": null,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "wordCount": 925,
+      "text": "Form W-9\n(Rev. March 2024)\nRequest for Taxpayer\nIdentification Number and Certification\nDepartment of the Treasury\nInternal Revenue Service Go to www.irs.gov/FormW9 for instructions and the latest inf ..."
+    },
+    {
+      "pageNumber": 2,
+      "wordCount": 1340,
+      "text": "Form W-9 (Rev. 3-2024) Page 2\nmust obtain your correct taxpayer identification number (TIN), which\nmay be your social security number (SSN), individual taxpayer\nidentification number (ITIN), adoption  ..."
+    }
+  ],
+  "outline": [],
+  "charged": true,
+  "chargedExtraPages": 0,
+  "extractedAt": "2026-11-11T01:05:39.146Z"
+}

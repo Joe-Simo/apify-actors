@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 24 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
+Docs, example inputs and real outputs for 26 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
 
 ## Featured
 
@@ -35,6 +35,8 @@ Docs, example inputs and real outputs for 24 data Actors on the Apify Store. Eac
 | [Sitemap Extractor](sitemap-extractor/) | Every URL from a website's sitemaps: robots.txt and common path discovery, nested indexes, gzip, text, RSS and Atom, with lastmod, hreflang, image and news tags, plus optional HTTP status and redirect checks. No login. | https://apify.com/joesimo/sitemap-extractor |
 | [Broken Link Checker](broken-link-checker/) | Crawl a website and check every internal and external link: 404s, 5xx, timeouts, DNS errors and redirect chains, with the source page and anchor text of each link. Respects robots.txt. No login. | https://apify.com/joesimo/broken-link-checker |
 | [SEO Audit Crawler](seo-audit/) | Crawl a website and audit every page for on-page SEO: titles, meta descriptions, H1s, canonicals, noindex, hreflang, Open Graph, schema markup types, image alt text, thin content, slow pages and duplicate titles, with issue codes, a 0 to 100 page score and a site summary. No login. | https://apify.com/joesimo/seo-audit |
+| [PDF Text Extractor](pdf-text-extractor/) | Text from PDF files at any public URL, or from every PDF linked on a web page: full text and text per page, title, author, dates, page count, word count, bookmarks and optional links, with scanned PDFs flagged and free. No browser, no login. | https://apify.com/joesimo/pdf-text-extractor |
+| [RSS Feed Reader](rss-feed-reader/) | RSS, Atom, RDF and JSON Feed feeds in bulk, from feed URLs, website URLs (feed found for you) or OPML files: clean items with UTC dates, authors, categories, images, enclosures and podcast tags, date and keyword filters, dedupe and a free health row per feed. No login. | https://apify.com/joesimo/rss-feed-reader |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login.
 
