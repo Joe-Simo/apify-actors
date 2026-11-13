@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 31 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
+Docs, example inputs and real outputs for 34 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
 
 ## Featured
 
@@ -42,6 +42,9 @@ Docs, example inputs and real outputs for 31 data Actors on the Apify Store. Eac
 | [SAP SuccessFactors Jobs Scraper](successfactors-jobs/) | Every job from any SAP SuccessFactors (Recruiting Marketing) career site: title, company, location, department, posted and closing dates, pay range from the text, full description and job link. Filters by keyword, location, department and days. Unsupported sites are free. No login. | https://apify.com/joesimo/successfactors-jobs |
 | [Website Image Extractor](website-image-extractor/) | Every image from web pages or whole sites: absolute image URL, page, where it was found (img, srcset, Open Graph, CSS background, JSON-LD, icons), alt text and size attributes. Optional check adds file size, pixel size and broken image detection. Alt text audit mode. No login. | https://apify.com/joesimo/website-image-extractor |
 | [Website Brand Extractor](website-brand-extractor/) | The brand kit of any website from its homepage: company name, logo URL, best favicon and touch icons, brand colors from CSS and theme color, company social profile links, description and Open Graph image. Bulk domains, fast HTTP, no login. | https://apify.com/joesimo/website-brand-extractor |
+| [Domain Availability Checker](domain-availability-checker/) | Bulk domain availability over public DNS: names across any TLD with prefixes and suffixes, or pasted domains. Available or registered, nameservers, parked and for-sale hints (Sedo, Dan.com, Afternic), website and email signals. No login, no WHOIS. | https://apify.com/joesimo/domain-availability-checker |
+| [HTTP Request](http-request/) | Bulk HTTP requests to any public API: URLs, curl commands or URL templates filled from rows, with headers, secret keys, JSON bodies, retries, field extraction, one row per array element and pagination. Status, headers and parsed JSON per response. No login. | https://apify.com/joesimo/http-request |
+| [WooCommerce Products](woocommerce-products/) | The public product catalog of any WooCommerce store: name, price, regular and sale price, currency, SKU, stock, rating, categories, tags, brands, images, attributes and variations. Whole store, a category or single product URLs. No login. | https://apify.com/joesimo/woocommerce-products |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login.
 

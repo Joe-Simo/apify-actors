@@ -1,0 +1,18 @@
+{
+  "urlTemplate": "https://jsonplaceholder.typicode.com/todos/{{id}}",
+  "rows": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "extractFields": {
+    "title": "title",
+    "done": "completed"
+  }
+}

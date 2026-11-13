@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "label": null,
+    "page": 1,
+    "method": "GET",
+    "url": "https://jsonplaceholder.typicode.com/todos/1",
+    "finalUrl": "https://jsonplaceholder.typicode.com/todos/1",
+    "status": 200,
+    "ok": true,
+    "statusText": "OK",
+    "contentType": "application/json; charset=utf-8",
+    "sizeBytes": 83,
+    "truncated": false,
+    "durationMs": 83,
+    "attempts": 1,
+    "redirects": [],
+    "error": null,
+    "row": {
+      "id": 1
+    },
+    "fields": {
+      "title": "delectus aut autem",
+      "done": false
+    },
+    "json": {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    "charged": true
+  },
+  {
+    "index": 1,
+    "label": null,
+    "page": 1,
+    "method": "GET",
+    "url": "https://jsonplaceholder.typicode.com/todos/2",
+    "finalUrl": "https://jsonplaceholder.typicode.com/todos/2",
+    "status": 200,
+    "ok": true,
+    "statusText": "OK",
+    "contentType": "application/json; charset=utf-8",
+    "sizeBytes": 99,
+    "truncated": false,
+    "durationMs": 98,
+    "attempts": 1,
+    "redirects": [],
+    "error": null,
+    "row": {
+      "id": 2
+    },
+    "fields": {
+      "title": "quis ut nam facilis et officia qui",
+      "done": false
+    },
+    "json": {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    "charged": true
+  }
+]
