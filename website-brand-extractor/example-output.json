@@ -1,0 +1,92 @@
+{
+    "input": "wikipedia.org",
+    "url": "https://wikipedia.org/",
+    "finalUrl": "https://www.wikipedia.org/",
+    "domain": "wikipedia.org",
+    "status": "ok",
+    "name": "Wikipedia",
+    "title": "Wikipedia",
+    "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+    "language": "en",
+    "logoUrl": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png",
+    "logoSource": "img",
+    "logoWidth": 200,
+    "logoHeight": 183,
+    "logoFormat": "png",
+    "logoCandidates": [
+        "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png"
+    ],
+    "faviconUrl": "https://www.wikipedia.org/static/apple-touch/wikipedia.png",
+    "faviconWidth": 160,
+    "faviconHeight": 160,
+    "icons": [
+        {
+            "url": "https://www.wikipedia.org/static/apple-touch/wikipedia.png",
+            "rel": "apple-touch-icon",
+            "sizes": null,
+            "type": null,
+            "width": 180,
+            "height": 180
+        },
+        {
+            "url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+            "rel": "icon",
+            "sizes": null,
+            "type": null,
+            "width": null,
+            "height": null
+        }
+    ],
+    "ogImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/250px-Wikipedia-logo-v2.svg.png",
+    "primaryColor": "#3366cc",
+    "themeColor": null,
+    "backgroundColor": null,
+    "brandColors": [
+        {
+            "hex": "#3366cc",
+            "weight": 20,
+            "variable": "--accent-color-base"
+        },
+        {
+            "hex": "#92ba56",
+            "weight": 11,
+            "variable": null
+        },
+        {
+            "hex": "#d0dfb9",
+            "weight": 7,
+            "variable": null
+        },
+        {
+            "hex": "#049dff",
+            "weight": 6,
+            "variable": null
+        },
+        {
+            "hex": "#f9dde9",
+            "weight": 3,
+            "variable": null
+        },
+        {
+            "hex": "#e3ecd5",
+            "weight": 2,
+            "variable": null
+        }
+    ],
+    "neutralColors": [
+        "#000000",
+        "#ffffff",
+        "#121212",
+        "#8b8b8b"
+    ],
+    "colorVariables": {
+        "--accent-color-base": "#3366cc"
+    },
+    "socialProfiles": {},
+    "socialCount": 0,
+    "manifest": null,
+    "organization": null,
+    "stylesheetsRead": 0,
+    "statusCode": 200,
+    "extractedAt": "2026-11-11T18:41:07.110Z"
+}

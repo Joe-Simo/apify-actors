@@ -1,0 +1,1 @@
+{"startUrls":["https://www.python.org/","https://go.dev/","https://allbirds.com/"],"crawl":true,"maxPages":25,"maxCrawlDepth":1,"checkImages":true,"minWidth":100}

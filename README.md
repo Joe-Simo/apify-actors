@@ -1,6 +1,6 @@
 # Apify Actors by joesimo
 
-Docs, example inputs and real outputs for 26 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
+Docs, example inputs and real outputs for 31 data Actors on the Apify Store. Each folder has what the Actor does, a copy-paste input, a real output row from a test run, and the Store link. Every Actor runs a small demo when called with an empty input `{}`. Pricing is pay per result on Apify.
 
 ## Featured
 
@@ -37,6 +37,11 @@ Docs, example inputs and real outputs for 26 data Actors on the Apify Store. Eac
 | [SEO Audit Crawler](seo-audit/) | Crawl a website and audit every page for on-page SEO: titles, meta descriptions, H1s, canonicals, noindex, hreflang, Open Graph, schema markup types, image alt text, thin content, slow pages and duplicate titles, with issue codes, a 0 to 100 page score and a site summary. No login. | https://apify.com/joesimo/seo-audit |
 | [PDF Text Extractor](pdf-text-extractor/) | Text from PDF files at any public URL, or from every PDF linked on a web page: full text and text per page, title, author, dates, page count, word count, bookmarks and optional links, with scanned PDFs flagged and free. No browser, no login. | https://apify.com/joesimo/pdf-text-extractor |
 | [RSS Feed Reader](rss-feed-reader/) | RSS, Atom, RDF and JSON Feed feeds in bulk, from feed URLs, website URLs (feed found for you) or OPML files: clean items with UTC dates, authors, categories, images, enclosures and podcast tags, date and keyword filters, dedupe and a free health row per feed. No login. | https://apify.com/joesimo/rss-feed-reader |
+| [Website to Markdown](website-to-markdown/) | Web pages or whole sites to clean Markdown for LLMs and RAG: main-content extraction, absolute links and images, tables kept, same-site crawl with URL patterns, metadata, word counts and optional chunks. Failed pages are free. No login. | https://apify.com/joesimo/website-to-markdown |
+| [Oracle Cloud HCM Jobs Scraper](oracle-hcm-jobs/) | Every job from any Oracle Cloud HCM (Oracle Recruiting Cloud) career site: description, pay range from the pay field or text, locations, work address, posted date and job link. Filters by keyword, location, category and days. Failed sites are free. No login. | https://apify.com/joesimo/oracle-hcm-jobs |
+| [SAP SuccessFactors Jobs Scraper](successfactors-jobs/) | Every job from any SAP SuccessFactors (Recruiting Marketing) career site: title, company, location, department, posted and closing dates, pay range from the text, full description and job link. Filters by keyword, location, department and days. Unsupported sites are free. No login. | https://apify.com/joesimo/successfactors-jobs |
+| [Website Image Extractor](website-image-extractor/) | Every image from web pages or whole sites: absolute image URL, page, where it was found (img, srcset, Open Graph, CSS background, JSON-LD, icons), alt text and size attributes. Optional check adds file size, pixel size and broken image detection. Alt text audit mode. No login. | https://apify.com/joesimo/website-image-extractor |
+| [Website Brand Extractor](website-brand-extractor/) | The brand kit of any website from its homepage: company name, logo URL, best favicon and touch icons, brand colors from CSS and theme color, company social profile links, description and Open Graph image. Bulk domains, fast HTTP, no login. | https://apify.com/joesimo/website-brand-extractor |
 
 Website Screenshot aside, they use plain HTTP and public data sources: no browser, no login. Website Screenshot uses a headless Chrome browser and captures only what an anonymous visitor sees, with no login.
 

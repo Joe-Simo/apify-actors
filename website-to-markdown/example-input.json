@@ -1,0 +1,1 @@
+{"startUrls":["https://go.dev/doc/"],"crawl":true,"maxPages":100,"maxCrawlDepth":2,"includeUrlPatterns":["/doc/"],"chunkSize":3000}
