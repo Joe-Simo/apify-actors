@@ -1,0 +1,8 @@
+{
+  "imageUrls": [
+    "https://tesseract.projectnaptha.com/img/eng_bw.png",
+    "https://raw.githubusercontent.com/tesseract-ocr/test/main/testing/phototest.tif"
+  ],
+  "language": "eng",
+  "includeLines": true
+}

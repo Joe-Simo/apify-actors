@@ -1,0 +1,7 @@
+{
+ "urls": [
+  "http://old.example.com/pricing, https://example.com/plans",
+  "http://github.com"
+ ],
+ "outputMode": "all"
+}

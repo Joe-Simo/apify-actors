@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://tesseract.projectnaptha.com/img/eng_bw.png",
+    "finalUrl": "https://tesseract.projectnaptha.com/img/eng_bw.png",
+    "status": "ok",
+    "language": "eng",
+    "text": "Mild Splendour of the various-vested Night!\nMother of wildly-working visions! hail\nI watch thy gliding, while with watery light\nThy weak eye glimmers through a fleecy veil;\nAnd when thou lovest thy pale orb to shroud\nBehind the gather’d blackness lost on high;\nAnd when thou dartest from the wind-rent cloud\nThy placid lightning o’er the awaken’d sky.",
+    "confidence": 92,
+    "wordCount": 58,
+    "lineCount": 8,
+    "lines": [
+      {
+        "text": "Mild Splendour of the various-vested Night!",
+        "confidence": 95,
+        "bbox": {
+          "x0": 38,
+          "y0": 34,
+          "x1": 1294,
+          "y1": 111
+        }
+      },
+      {
+        "text": "Mother of wildly-working visions! hail",
+        "confidence": 82,
+        "bbox": {
+          "x0": 105,
+          "y0": 111,
+          "x1": 1195,
+          "y1": 184
+        }
+      },
+      {
+        "text": "I watch thy gliding, while with watery light",
+        "confidence": 96,
+        "bbox": {
+          "x0": 34,
+          "y0": 185,
+          "x1": 1300,
+          "y1": 262
+        }
+      }
+    ],
+    "bytes": 26854,
+    "contentType": "image/png",
+    "ocrMs": 1166
+  }
+]

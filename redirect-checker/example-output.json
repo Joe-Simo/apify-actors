@@ -1,0 +1,64 @@
+[
+ {
+  "url": "http://example.com/",
+  "verdict": "ok",
+  "statusCode": 200,
+  "finalStatusCode": 200,
+  "finalUrl": "http://example.com/",
+  "redirectCount": 0,
+  "redirectChain": [],
+  "expectedUrl": null,
+  "matchesExpected": null,
+  "issues": [
+   "final_url_not_https"
+  ],
+  "contentType": "text/html; charset=utf-8",
+  "responseTimeMs": 30,
+  "error": null,
+  "checkedAt": "2026-11-13T00:44:07.335Z"
+ },
+ {
+  "url": "http://docs.apify.com/",
+  "verdict": "redirect",
+  "statusCode": 301,
+  "finalStatusCode": 200,
+  "finalUrl": "https://docs.apify.com/",
+  "redirectCount": 1,
+  "redirectChain": [
+   {
+    "url": "http://docs.apify.com/",
+    "statusCode": 301,
+    "location": "https://docs.apify.com/"
+   }
+  ],
+  "expectedUrl": null,
+  "matchesExpected": null,
+  "issues": [],
+  "contentType": "text/html; charset=utf-8",
+  "responseTimeMs": 174,
+  "error": null,
+  "checkedAt": "2026-11-13T00:44:07.478Z"
+ },
+ {
+  "url": "http://crawlee.dev/",
+  "verdict": "redirect",
+  "statusCode": 301,
+  "finalStatusCode": 200,
+  "finalUrl": "https://crawlee.dev/",
+  "redirectCount": 1,
+  "redirectChain": [
+   {
+    "url": "http://crawlee.dev/",
+    "statusCode": 301,
+    "location": "https://crawlee.dev/"
+   }
+  ],
+  "expectedUrl": null,
+  "matchesExpected": null,
+  "issues": [],
+  "contentType": "text/html; charset=utf-8",
+  "responseTimeMs": 182,
+  "error": null,
+  "checkedAt": "2026-11-13T00:44:07.486Z"
+ }
+]
